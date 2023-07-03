@@ -1,4 +1,4 @@
-// Logical operators
+c// Logical operators
 
 #include <cs50.h>
 #include <stdio.h>
